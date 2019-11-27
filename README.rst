@@ -1,0 +1,1 @@
+This is a very simple TIGCC program that returns a previous answer from the Home screen history area, but, unlike the built-in ``ans()`` function, it will get the top-most answer, not the most recent one.
