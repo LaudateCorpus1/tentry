@@ -50,6 +50,7 @@ Use Return Value=0
 Enable Error Return=0
 Save Screen=1
 [File Editing]
-Open File=F:\TIGCC\Projects\tans\tans.c
+Open File=F:\TIGCC\Projects\tans\tentry.c
 [Included Files]
 C File 1=tans.c
+C File 2=tentry.c
