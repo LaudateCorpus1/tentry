@@ -1,1 +1,1 @@
-This is a very simple TIGCC program that returns a previous answer from the Home screen history area, but, unlike the built-in ``ans()`` function, it will get the top-most answer, not the most recent one.
+``tentry()`` and ``tans()`` are very simple TIGCC programs that return a previous answer/entry from the Home screen history area, but, unlike the built-in ``ans()``/``entry()`` functions, they will retrieve the top-most entry, not the most recent one.
